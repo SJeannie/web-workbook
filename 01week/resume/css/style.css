@@ -1,3 +1,21 @@
-li {
- list-style-type: none;
+body{
+  background-color: lightyellow;
+  border: 3px dashed lightcoral;
+  display: block;
+  font-size: 18;
+  padding: 20px;
+}
+
+h2 {
+  color: thistle;
+  padding-top: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: lightsalmon;
+}
+
+.brd {
+  border: 1px solid black;
 }
