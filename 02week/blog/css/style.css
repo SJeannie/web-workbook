@@ -1,0 +1,25 @@
+body{
+  background-color: lightyellow;
+  border: 3px dashed lightcoral;
+  display: block;
+  font-size: 18;
+  padding: 20px;
+}
+
+h2 {
+  color: thistle;
+  padding-top: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: lightsalmon;
+}
+
+h4 {
+  color: lightseagreen;
+}
+
+.brd {
+  border: 1px solid black;
+}

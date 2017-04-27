@@ -1,0 +1,102 @@
+<!-- Mon. April 10, 2017, Class 1 -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width"/>
+  <link type = "text/css" rel="stylesheet" href="reset.css">
+  <link type = "text/css" rel="stylesheet" href="css\style.css">
+
+  <title> Jeannie's Blog </title>
+</head>
+
+<body>
+
+
+  <h2> Thought Bubbles Over Jeannie's Head </h2>
+
+<img src = ""/>
+
+
+  <h3> Welcome! </h3>
+    <p> This is where I jot down my thoughts!
+    </p>
+    <div></div>
+
+  <h3> Wednesday, April 26, 2017 </h3>
+    <ul>
+      <p></p>
+
+  <h4> Contentment vs. Drive </h4>
+
+      <p>
+        <a href= "https://www.facebook.com/Channel4News/videos/10154734275256939/"" target = “_blank”>Video: Google Exec on happiness</a>
+
+      <video width="380" controls
+      <video src="https://www.facebook.com/Channel4News/videos/10154734275256939/"> autoplay>
+
+
+      </p>
+
+      <p>
+      I've borne this very perspective since I was a kid.
+      I once shared it as an adult, and the person hearing
+      it said that makes me an existentialist. He also seemed
+      unconvinced - and I think that was the fear locking
+      him in.</p>
+
+      <p> The very idea of looking at the empty part of
+      glass and seeing what one can do to change it  -
+      and actually doing something about it once the
+      assessment sets in - requires awareness, then action,
+      and even envisioning change and the work required to
+      make it happen is often scary. Recognizing that can
+      also lead to self-criticism - "You know what you need
+      to do, so why aren't you doing it," "are you so
+      cowardly that you won't even try," "why can't you get
+      your act together?" - so people then often shove it
+      under the rug and choose the status quo. In case you
+      can't tell, this comes from firsthand experience, and
+      these are things I say to myself all the time. </p>
+
+      <p> Continuing to challenge ourselves in and of
+      itself is a challenge. Letting inertia play out is
+      so much easier, yet inertia is both a friend and foe
+      in finding the balance between acceptance/contentment
+      and self-improvement. </p>
+
+    <p>Fight on. Only dead fish go with the flow. </p>
+      </li>
+    </ul>
+
+  <h3> Current Projects </h3>
+    <ul>
+        <p>
+        </p>
+      <li> Learning HTML/CSS at the Houston Coding Academy
+        under Greg Harrison's tutelage! </li>
+    </ul>
+
+    <h3> Jeannie is also interested in... </h3>
+      <ul>
+          <p></p>
+        <li> Edtech </li>
+
+        <li> Conversing in Spanish, Mandarin, and Korean  </li>
+      </ul>
+
+              <p></p>
+              <p></p>
+<a href= "https://www.linkedin.com/in/sjjeanniekim/"" target = “_blank”>LinkedIn</a>
+<p></p>
+<a href= "mailto:sj.jeannie.kim@gmail.com" target = “_blank”>Email Jeannie</a>
+<p></p>
+<a href= "https://github.com/SJeannie/web-workbook" target = “_blank”>Github Portfolio</a>
+<p></p>
+</body>
+
+</html>
+
+<!--Mon. April 10, 2017, Class 1 -->
