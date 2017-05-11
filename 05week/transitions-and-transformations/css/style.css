@@ -1,0 +1,81 @@
+
+.container{
+  margin: 5em;
+  border-style: outset;
+  width: 90%;
+  height: 90%;
+}
+
+.container:hover div:not(:hover){
+  transform: scale(0.5);
+  animation-name: rollleft;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
+  animation-delay: 3s;
+}
+
+.container div:hover{
+  transform: scale(2);
+  animation-name: rollright;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+.box{
+  background: pink;
+  border-style: groove;
+  border-radius: 5px;
+  position: relative;
+  left: 40%;
+  width: 5em;
+  height: 5em;
+  margin: 1em;
+}
+
+@keyframes rollright{
+  0%{
+    left: 50%;
+  }
+  25%{
+    transform:rotate(90deg);
+  }
+  50%{
+    transform:rotate(180deg);
+  }
+  75%{
+    transform:rotate(270deg);
+  }
+  100%{
+    left: 90%;
+  }
+}
+
+@keyframes rollleft{
+  0%{
+    left: 50%;
+  }
+  25%{
+    transform:rotate(270deg);
+  }
+  50%{
+    transform:rotate(180deg);
+  }
+  75%{
+    transform:rotate(90deg);
+  }
+  100%{
+    left: 10%;
+  }
+}
+
+.box1{
+
+}
+
+.box2{
+
+}
+
+.box3{
+
+}
